@@ -1,0 +1,93 @@
+/* CSS Reset */
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  background-color: sandybrown;
+  padding: 1px;
+  margin: 0px;
+}
+
+#main-website-header {
+  font-family: "Times New Roman", Times, serif;
+  padding: 0px;
+  margin: 10px;
+  font-style: italic;
+  text-align: center;
+}
+
+footer {
+  background-color: lightblue;
+}
+
+section {
+  /* border: 2px solid red; (ikke i bruk) */
+  padding: 0px;
+  margin: 10px;
+}
+
+main {
+  background-color: aquamarine;
+  padding: 8px;
+}
+
+#section-about-goldship {
+  background-color: white;
+  border: 3px solid gold;
+  border-radius: 20px;
+  border-style: groove;
+}
+
+#goldship {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 10px;
+  font-style: italic;
+}
+
+#section-about-daiwascarlet {
+  background-color: white;
+  border: 3px solid royalblue;
+  border-radius: 20px;
+  border-style: groove;
+}
+
+#daiwascarlet {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 10px;
+  font-style: italic;
+}
+
+#section-about-agnestachyon {
+  background-color: white;
+  border: 3px solid darkmagenta;
+  border-radius: 20px;
+  border-style: groove;
+}
+
+#agnestachyon {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 10px;
+  font-style: italic;
+}
+
+.summary-about-horse {
+  padding: 10px;
+  margin: 10px;
+}
+
+.information-sources {
+  padding: 10px;
+  margin: 10px;
+  height: 0px;
+  font-style: italic;
+}
+
+ul {
+  padding: 18px;
+  margin: 10px;
+  list-style-type: square;
+  font-style: oblique;
+}
